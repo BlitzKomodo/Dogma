@@ -3,4 +3,4 @@ def main(N):
 
 n = 1
 
-print(main(n))
+print(main(n+1))
