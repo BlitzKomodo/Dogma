@@ -1,6 +1,6 @@
 def main(N):
-    return N
+    return N+3
 
 n = 1
 
-print(main(n+1))
+print(main(n))
